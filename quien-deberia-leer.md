@@ -6,12 +6,12 @@ todas estas áreas deberían leer este libro.
 
 **Personas «queer»**: Este libro contiene algunas de nuestras historias,
 algunas se sentirán familiares, otras pueden parecer extrañas, pero todas son
-parte de nuestra marginalización compartidda, y es importante que entendamos
+parte de nuestra marginalización compartida, y es importante que entendamos
 los retos que enfrentamos, así como los retos de otras.
 
 **Ingenieras de software/Ingenieras de seguridad**: Necesitamos construir
 mejores herramientas, necesitamos construir mejor involucramiento en la
-comundiad. No podemos hacer esto hasta que entendamos los retos que ellas
+comunidad. No podemos hacer esto hasta que entendamos los retos que ellas
 enfrentan. Este libro es un intento de construir un puente entre las
 comunidades para fomentar la colaboración y el empoderamiento.
 
